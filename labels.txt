@@ -1,0 +1,10 @@
+0 Black footed Albatross
+1 Laysan Albatross
+2 Sooty Albatross
+3 Groove billed Ani
+4 Least Auklet
+5 Parakeet Auklet
+6 Rhinoceros Auklet
+7 Brewer Blackbird 
+8 Red winged Blackbird
+9 Crested Auklet
